@@ -1,0 +1,25 @@
+section {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+    padding: 2rem;
+    margin: auto;
+    background-color: white;
+    border-radius: 1rem;
+
+    ul {
+
+        font-size: 3rem;
+
+        li {
+
+            margin-bottom: 1rem;
+            font-weight: 700;
+
+        }
+    }
+}

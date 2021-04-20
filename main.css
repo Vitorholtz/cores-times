@@ -61,4 +61,8 @@ section ul li {
   margin-bottom: 1rem;
   font-weight: 700;
 }
+
+section ul img {
+  width: 14rem;
+}
 /*# sourceMappingURL=main.css.map */

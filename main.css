@@ -22,7 +22,7 @@ body {
 }
 
 html {
-  font-family: 'Cairo', sans-serif;
+  font-family: 'arial', sans-serif;
   font-size: 62.5%;
 }
 
@@ -58,7 +58,7 @@ section ul {
 }
 
 section ul li {
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
   font-weight: 700;
 }
 
